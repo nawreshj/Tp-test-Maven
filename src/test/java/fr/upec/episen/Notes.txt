@@ -1,0 +1,12 @@
+1. Classe test pour Car.java 
+    - verifier si la couleur par defaut est bien rouge
+    - verifier si on a mis un ecouleur en constructeur c'est bien la couleur de la voiture
+
+    Classe test pour CarFactory.java
+    - verifier qu esi on met une couleur non valide ca nous genere l'exeption 
+    - verifier que si la couleur est valide alors la couleur est bien instancier 
+    
+    Classe test pour CarDealer.java
+    - verifier qu ela liste n'est pas null si on met une couleurs valide 
+    - verifier que la quantiét est correcte 
+    - verifier que els voiture sont bien toute de la bonne couleur 
