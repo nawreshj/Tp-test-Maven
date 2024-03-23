@@ -13,10 +13,8 @@ public class CarDealerIT {
         // Given 
         ArrayList<Car> cars= new ArrayList<Car>();
         CarDealer carDealer= new CarDealer();
-
         //When 
         cars= carDealer.Order(3, "Jaune");
-
         //Then 
         assertNull(cars);
 
